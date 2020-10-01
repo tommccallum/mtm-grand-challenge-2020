@@ -1,5 +1,8 @@
 *** PROJECT DISCONTINUED ***
 
+In this end this was too complicated for the time I had available for the competition, so I entered the Zowe Terminal Explorer instead.
+
+
 
 # MTM Grand Challenge 2020
 
